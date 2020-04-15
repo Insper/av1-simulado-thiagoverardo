@@ -53,7 +53,14 @@ volatile char button1_flag = 0;
 volatile char button2_flag = 0;
 volatile char button3_flag = 0;
 
+/************************************************************************/
+/* prototypes                                                           */
+/************************************************************************/
 void init(void);
+void pin_toggle(Pio *pio, uint32_t mask);
+void button1_handler();
+void button2_handler();
+void button3_handler();
 
 /************************/
 /* Handlers             */
@@ -82,23 +89,29 @@ void init(void) {
 	// Desativa WatchDog Timer
 	WDT->WDT_MR = WDT_MR_WDDIS;
 	
-	// LED PLACA
-	pmc_enable_periph_clk(LED_PLACA_PIO_ID);
-	pio_configure(LED_PLACA_PIO, PIO_OUTPUT_0, LED_PLACA_IDX_MASK, PIO_DEFAULT);
 	pio_set(LED_PLACA_PIO, LED_PLACA_IDX_MASK);
 	
 	// Ativa PIOs necessários
 	pmc_enable_periph_clk(BUT1_PIO_ID);
+	pmc_enable_periph_clk(BUT2_PIO_ID);	
 	pmc_enable_periph_clk(BUT3_PIO_ID);
+	pmc_enable_periph_clk(LED_PLACA_PIO_ID);
 	pmc_enable_periph_clk(LED1_PIO_ID);
 	pmc_enable_periph_clk(LED2_PIO_ID);
 	pmc_enable_periph_clk(LED3_PIO_ID);
 	
-	// Inicializa LEDs como saída
-	pio_set_output(LED1_PIO, LED1_PIO_IDX_MASK, 0, 0, 0);
-	pio_set_output(LED2_PIO, LED2_PIO_IDX_MASK, 0, 0, 0);
-	pio_set_output(LED3_PIO, LED3_PIO_IDX_MASK, 0, 0, 0);
-	
+	// Configura LEDs
+	pio_configure(LED_PLACA_PIO, PIO_OUTPUT_0, LED_PLACA_IDX_MASK, PIO_DEFAULT);
+	pio_configure(LED1_PIO, PIO_OUTPUT_0, LED1_PIO_IDX_MASK, PIO_DEFAULT);
+	pio_configure(LED2_PIO, PIO_OUTPUT_0, LED2_PIO_IDX_MASK, PIO_DEFAULT);
+	pio_configure(LED3_PIO, PIO_OUTPUT_0, LED3_PIO_IDX_MASK, PIO_DEFAULT);
+		
+	// Inicializa LEDs acesos/apagados
+	pio_set(LED_PLACA_PIO, LED_PLACA_IDX_MASK);
+	pio_clear(LED1_PIO, LED1_PIO_IDX_MASK);
+	pio_set(LED2_PIO, LED2_PIO_IDX_MASK);
+	pio_clear(LED3_PIO, LED3_PIO_IDX_MASK);
+		
 	//Inicializando os handlers
 	pio_handler_set(BUT1_PIO, BUT1_PIO_ID, BUT1_PIO_IDX_MASK, PIO_IT_FALL_EDGE, button1_handler);
 	pio_handler_set(BUT2_PIO, BUT2_PIO_ID, BUT2_PIO_IDX_MASK, PIO_IT_FALL_EDGE, button2_handler);
@@ -113,6 +126,9 @@ void init(void) {
 	NVIC_EnableIRQ(BUT1_PIO_ID);
 	NVIC_EnableIRQ(BUT2_PIO_ID);
 	NVIC_EnableIRQ(BUT3_PIO_ID);
+	NVIC_SetPriority(BUT1_PIO_ID, 4);
+	NVIC_SetPriority(BUT2_PIO_ID, 4);
+	NVIC_SetPriority(BUT3_PIO_ID, 4);
 }
 
 void pin_toggle(Pio *pio, uint32_t mask) {
@@ -128,6 +144,7 @@ int main (void)
 	board_init();
 	sysclk_init();
 	delay_init();
+	init();
 	
 	//inicializa as flags
 	button1_flag = 0;
@@ -143,11 +160,24 @@ int main (void)
   
   // Escreve na tela um circulo e um texto
 	gfx_mono_draw_filled_circle(20, 16, 16, GFX_PIXEL_SET, GFX_WHOLE);
-    gfx_mono_draw_string("mundo", 50,16, &sysfont);
+    gfx_mono_draw_string("thiago", 50,16, &sysfont);
 
   /* Insert application code here, after the board has been initialized. */
 	while(1) {
 		pmc_sleep(SAM_PM_SMODE_SLEEP_WFI);
+		
+		if (flash_LED1) {
+			pin_toggle(LED1_PIO, LED1_PIO_IDX_MASK);
+		}
+		
+		if (flash_LED2) {
+			pin_toggle(LED2_PIO, LED2_PIO_IDX_MASK);
+		}
+		
+		if (flash_LED3) {
+			pin_toggle(LED3_PIO, LED3_PIO_IDX_MASK);
+		}
+		
 		
 		if (button1_flag) {
 			flash_LED1 = !flash_LED1;

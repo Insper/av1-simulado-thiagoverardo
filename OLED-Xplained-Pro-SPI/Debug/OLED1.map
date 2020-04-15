@@ -55,6 +55,654 @@ Discarded input sections
  .ARM.exidx     0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/crt0.o
  .ARM.attributes
                 0x00000000       0x1c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/crt0.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .text          0x00000000        0x0 src/ASF/sam/drivers/rtc/rtc.o
+ .data          0x00000000        0x0 src/ASF/sam/drivers/rtc/rtc.o
+ .bss           0x00000000        0x0 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_set_hour_mode
+                0x00000000       0x16 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_get_hour_mode
+                0x00000000        0x8 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_enable_interrupt
+                0x00000000        0x4 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_disable_interrupt
+                0x00000000        0x4 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_get_interrupt_mask
+                0x00000000        0x4 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_get_time
+                0x00000000       0x5a src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_set_time
+                0x00000000       0x90 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_set_time_alarm
+                0x00000000       0x94 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_get_date
+                0x00000000       0x72 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_set_date
+                0x00000000       0xb8 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_set_date_alarm
+                0x00000000       0x60 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_clear_time_alarm
+                0x00000000        0x6 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_clear_date_alarm
+                0x00000000        0xc src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_get_status
+                0x00000000        0x4 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_clear_status
+                0x00000000        0x4 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_get_valid_entry
+                0x00000000        0x4 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_set_time_event
+                0x00000000       0x16 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_set_calendar_event
+                0x00000000       0x16 src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_set_waveform
+                0x00000000      0x13e src/ASF/sam/drivers/rtc/rtc.o
+ .text.rtc_set_pulse_parameter
+                0x00000000       0x16 src/ASF/sam/drivers/rtc/rtc.o
+ .bss.cpu_irq_critical_section_counter
+                0x00000000        0x4 src/ASF/sam/drivers/rtc/rtc.o
+ .bss.cpu_irq_prev_interrupt_state
+                0x00000000        0x1 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_info    0x00000000     0x10f7 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_abbrev  0x00000000      0x2e3 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_loc     0x00000000      0x8d0 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_aranges
+                0x00000000       0xb8 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_ranges  0x00000000       0xa8 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x678 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x8ce src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x16d src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x64b src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x6e4 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x22 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x87 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x51 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0xef src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x1df src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x4a src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x3b src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x2d src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x26 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0xf9a src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x175 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x257 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0xa0f src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x1b9 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x336 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x15b src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000     0x1851 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x68d src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x31e src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x4d4 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x56e src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000     0x1332 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000     0x278d src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000     0x102b src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0xe01 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x3b1 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0xa0 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x409 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x64 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x284 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x1d0 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x248 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x524 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x63b src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x6b8 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x468 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x207 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x866 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000     0x1547 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0xdaf src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x82 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x135 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x135 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x135 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x313 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0xb2 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0xb2 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0xb2 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x11d src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x11d src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x2cd src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0xb8 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x5e src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0xa0 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x494 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x135 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x313 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0xb8 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x2e src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x9b1 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x88 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x58 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0xe2 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0xe2 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x2e src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x2e src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x22 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x52 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x31b src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000     0x1022 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x107 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x58 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x35 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x9c src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x35 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x353 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x58 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x1f src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x43 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x20 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x187 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x52 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0xd7 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x18b src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x22 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x29 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x75 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000       0x3f src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x00000000      0x3ca src/ASF/sam/drivers/rtc/rtc.o
+ .debug_line    0x00000000      0xbe4 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_str     0x00000000    0x8226b src/ASF/sam/drivers/rtc/rtc.o
+ .comment       0x00000000       0x5a src/ASF/sam/drivers/rtc/rtc.o
+ .debug_frame   0x00000000      0x1b0 src/ASF/sam/drivers/rtc/rtc.o
+ .ARM.attributes
+                0x00000000       0x37 src/ASF/sam/drivers/rtc/rtc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/rtt/rtt.o
+ .text          0x00000000        0x0 src/ASF/sam/drivers/rtt/rtt.o
+ .data          0x00000000        0x0 src/ASF/sam/drivers/rtt/rtt.o
+ .bss           0x00000000        0x0 src/ASF/sam/drivers/rtt/rtt.o
+ .text.rtt_init
+                0x00000000       0x14 src/ASF/sam/drivers/rtt/rtt.o
+ .text.rtt_sel_source
+                0x00000000       0x2c src/ASF/sam/drivers/rtt/rtt.o
+ .text.rtt_enable
+                0x00000000       0x18 src/ASF/sam/drivers/rtt/rtt.o
+ .text.rtt_disable
+                0x00000000       0x18 src/ASF/sam/drivers/rtt/rtt.o
+ .text.rtt_enable_interrupt
+                0x00000000       0x14 src/ASF/sam/drivers/rtt/rtt.o
+ .text.rtt_disable_interrupt
+                0x00000000       0x14 src/ASF/sam/drivers/rtt/rtt.o
+ .text.rtt_read_timer_value
+                0x00000000       0x14 src/ASF/sam/drivers/rtt/rtt.o
+ .text.rtt_get_status
+                0x00000000        0x4 src/ASF/sam/drivers/rtt/rtt.o
+ .text.rtt_write_alarm_time
+                0x00000000       0x44 src/ASF/sam/drivers/rtt/rtt.o
+ .bss.cpu_irq_critical_section_counter
+                0x00000000        0x4 src/ASF/sam/drivers/rtt/rtt.o
+ .bss.cpu_irq_prev_interrupt_state
+                0x00000000        0x1 src/ASF/sam/drivers/rtt/rtt.o
+ .bss.g_wobits_in_rtt_mr
+                0x00000000        0x4 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_info    0x00000000      0xcd1 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_abbrev  0x00000000      0x256 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_loc     0x00000000      0x1c7 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_aranges
+                0x00000000       0x60 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_ranges  0x00000000       0x50 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x660 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x8ce src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x16d src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x64b src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x6e4 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x22 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x87 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x51 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0xef src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x1df src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x4a src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x3b src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x2d src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x26 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0xf9a src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x175 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x257 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0xa0f src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x1b9 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x336 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x15b src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000     0x1851 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x68d src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x31e src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x4d4 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x56e src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000     0x1332 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000     0x278d src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000     0x102b src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0xe01 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x3b1 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0xa0 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x409 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x64 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x284 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x1d0 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x248 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x524 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x63b src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x6b8 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x468 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x207 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x866 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000     0x1547 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0xdaf src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x82 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x135 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x135 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x135 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x313 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0xb2 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0xb2 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0xb2 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x11d src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x11d src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x2cd src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0xb8 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x5e src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0xa0 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x494 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x135 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x313 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0xb8 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x2e src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x9b1 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x88 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x58 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0xe2 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0xe2 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x2e src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x2e src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x22 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x52 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x31b src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000     0x1022 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x107 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x58 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x35 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x9c src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x35 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x353 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x58 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x1f src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x43 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x20 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x187 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x52 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0xd7 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x18b src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x22 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x29 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x75 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000       0x3f src/ASF/sam/drivers/rtt/rtt.o
+ .debug_macro   0x00000000      0x3ca src/ASF/sam/drivers/rtt/rtt.o
+ .debug_line    0x00000000      0xa72 src/ASF/sam/drivers/rtt/rtt.o
+ .debug_str     0x00000000    0x8202e src/ASF/sam/drivers/rtt/rtt.o
+ .comment       0x00000000       0x5a src/ASF/sam/drivers/rtt/rtt.o
+ .debug_frame   0x00000000       0xac src/ASF/sam/drivers/rtt/rtt.o
+ .ARM.attributes
+                0x00000000       0x37 src/ASF/sam/drivers/rtt/rtt.o
  .group         0x00000000        0x8 src/ASF/sam/drivers/spi/spi.o
  .group         0x00000000        0x8 src/ASF/sam/drivers/spi/spi.o
  .group         0x00000000        0x8 src/ASF/sam/drivers/spi/spi.o
@@ -219,6 +867,483 @@ Discarded input sections
                 0x00000000        0x4 src/ASF/sam/drivers/spi/spi.o
  .bss.cpu_irq_prev_interrupt_state
                 0x00000000        0x1 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x8ce src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x16d src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x64b src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x6e4 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x22 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x87 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x51 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0xef src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x1df src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x4a src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x3b src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x2d src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x26 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0xf9a src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x175 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x257 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0xa0f src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x1b9 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x336 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x15b src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000     0x1851 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x68d src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x31e src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x4d4 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x56e src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000     0x1332 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000     0x278d src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000     0x102b src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0xe01 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x3b1 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0xa0 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x409 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x64 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x284 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x1d0 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x248 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x524 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x63b src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x6b8 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x468 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x207 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x866 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000     0x1547 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0xdaf src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x82 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x135 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x135 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x135 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x313 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0xb2 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0xb2 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0xb2 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x11d src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x11d src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x2cd src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0xb8 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x5e src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0xa0 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x494 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x135 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x313 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0xb8 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x2e src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x9b1 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x88 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x58 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0xe2 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0xe2 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x2e src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x2e src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x22 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x52 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x31b src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000     0x1022 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x107 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x58 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x35 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x9c src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x35 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x353 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x58 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x1f src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x43 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x20 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x187 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x52 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0xd7 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x18b src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x22 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x29 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x75 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000       0x3f src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000000      0x3ca src/ASF/sam/drivers/spi/spi.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .group         0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .text          0x00000000        0x0 src/ASF/sam/drivers/tc/tc.o
+ .data          0x00000000        0x0 src/ASF/sam/drivers/tc/tc.o
+ .bss           0x00000000        0x0 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_init  0x00000000       0x1a src/ASF/sam/drivers/tc/tc.o
+ .text.tc_sync_trigger
+                0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_set_block_mode
+                0x00000000        0x6 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_init_2bit_gray
+                0x00000000        0xa src/ASF/sam/drivers/tc/tc.o
+ .text.tc_start
+                0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_stop  0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_read_cv
+                0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_read_ra
+                0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_read_rb
+                0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_read_rc
+                0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_write_ra
+                0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_write_rb
+                0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_write_rc
+                0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_enable_interrupt
+                0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_disable_interrupt
+                0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_get_interrupt_mask
+                0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_get_status
+                0x00000000        0x8 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_find_mck_divisor
+                0x00000000       0x70 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_enable_qdec_interrupt
+                0x00000000        0x6 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_disable_qdec_interrupt
+                0x00000000        0x6 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_get_qdec_interrupt_mask
+                0x00000000        0x6 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_get_qdec_interrupt_status
+                0x00000000        0x6 src/ASF/sam/drivers/tc/tc.o
+ .text.tc_set_writeprotect
+                0x00000000       0x1c src/ASF/sam/drivers/tc/tc.o
+ .bss.cpu_irq_critical_section_counter
+                0x00000000        0x4 src/ASF/sam/drivers/tc/tc.o
+ .bss.cpu_irq_prev_interrupt_state
+                0x00000000        0x1 src/ASF/sam/drivers/tc/tc.o
+ .debug_info    0x00000000     0x1233 src/ASF/sam/drivers/tc/tc.o
+ .debug_abbrev  0x00000000      0x293 src/ASF/sam/drivers/tc/tc.o
+ .debug_loc     0x00000000      0x5a4 src/ASF/sam/drivers/tc/tc.o
+ .debug_aranges
+                0x00000000       0xd0 src/ASF/sam/drivers/tc/tc.o
+ .debug_ranges  0x00000000       0xc0 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x66d src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x8ce src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x22 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x52 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x8d src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x35 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x9c src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x16d src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x64b src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x6e4 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x57 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0xef src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x1df src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x4a src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x3b src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x2d src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x26 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0xf9a src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x175 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x257 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0xa0f src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x1b9 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x336 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x15b src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000     0x1851 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x68d src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x31e src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x4d4 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x56e src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000     0x1332 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000     0x278d src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000     0x102b src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0xe01 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x3b1 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0xa0 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x409 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x64 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x284 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x1d0 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x248 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x524 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x63b src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x6b8 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x468 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x207 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x866 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000     0x1547 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0xdaf src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x82 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x76 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x135 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x135 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x135 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x313 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0xb2 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0xb2 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0xb2 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x11d src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x11d src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x2cd src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0xb8 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x5e src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0xa0 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x494 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x135 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x313 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0xb8 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x2e src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x9b1 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x6a src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x88 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x58 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0xe2 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0xe2 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x2e src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x1b5 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x2e src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x22 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x52 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x4c src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x31b src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000     0x1022 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x107 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x35 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x353 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x58 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x1f src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x43 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x20 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x187 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x1c src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x52 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x10 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x40 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0xd7 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x18b src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x22 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x16 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x29 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x75 src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000       0x3f src/ASF/sam/drivers/tc/tc.o
+ .debug_macro   0x00000000      0x3ca src/ASF/sam/drivers/tc/tc.o
+ .debug_line    0x00000000      0xb85 src/ASF/sam/drivers/tc/tc.o
+ .debug_str     0x00000000    0x8228c src/ASF/sam/drivers/tc/tc.o
+ .comment       0x00000000       0x5a src/ASF/sam/drivers/tc/tc.o
+ .debug_frame   0x00000000      0x1a8 src/ASF/sam/drivers/tc/tc.o
+ .ARM.attributes
+                0x00000000       0x37 src/ASF/sam/drivers/tc/tc.o
  .group         0x00000000        0x8 src/oled/gfx_mono_framebuffer.o
  .group         0x00000000        0x8 src/oled/gfx_mono_framebuffer.o
  .group         0x00000000        0x8 src/oled/gfx_mono_framebuffer.o
@@ -1047,8 +2172,12 @@ Discarded input sections
  .debug_macro   0x00000000      0x8ce src/oled/gfx_mono_text.o
  .debug_macro   0x00000000      0x16d src/oled/gfx_mono_text.o
  .debug_macro   0x00000000       0x22 src/oled/gfx_mono_text.o
+ .debug_macro   0x00000000       0x52 src/oled/gfx_mono_text.o
+ .debug_macro   0x00000000       0x8d src/oled/gfx_mono_text.o
  .debug_macro   0x00000000       0x35 src/oled/gfx_mono_text.o
  .debug_macro   0x00000000       0x9c src/oled/gfx_mono_text.o
+ .debug_macro   0x00000000       0x16 src/oled/gfx_mono_text.o
+ .debug_macro   0x00000000       0x57 src/oled/gfx_mono_text.o
  .debug_macro   0x00000000       0xef src/oled/gfx_mono_text.o
  .debug_macro   0x00000000       0x6a src/oled/gfx_mono_text.o
  .debug_macro   0x00000000      0x1df src/oled/gfx_mono_text.o
@@ -1153,6 +2282,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x31b src/oled/gfx_mono_text.o
  .debug_macro   0x00000000     0x1022 src/oled/gfx_mono_text.o
  .debug_macro   0x00000000      0x107 src/oled/gfx_mono_text.o
+ .debug_macro   0x00000000       0x1c src/oled/gfx_mono_text.o
  .debug_macro   0x00000000       0x35 src/oled/gfx_mono_text.o
  .debug_macro   0x00000000      0x353 src/oled/gfx_mono_text.o
  .debug_macro   0x00000000       0x10 src/oled/gfx_mono_text.o
@@ -3760,12 +4890,7 @@ Discarded input sections
                 0x00000000        0xa src/ASF/sam/drivers/pio/pio.o
  .text.pio_set_debounce_filter
                 0x00000000       0x1a src/ASF/sam/drivers/pio/pio.o
- .text.pio_set  0x00000000        0x4 src/ASF/sam/drivers/pio/pio.o
- .text.pio_clear
-                0x00000000        0x4 src/ASF/sam/drivers/pio/pio.o
  .text.pio_get  0x00000000       0x1a src/ASF/sam/drivers/pio/pio.o
- .text.pio_get_output_data_status
-                0x00000000        0xc src/ASF/sam/drivers/pio/pio.o
  .text.pio_set_multi_driver
                 0x00000000        0xa src/ASF/sam/drivers/pio/pio.o
  .text.pio_get_multi_driver_status
@@ -3784,10 +4909,6 @@ Discarded input sections
                 0x00000000        0x6 src/ASF/sam/drivers/pio/pio.o
  .text.pio_get_schmitt_trigger
                 0x00000000        0x6 src/ASF/sam/drivers/pio/pio.o
- .text.pio_configure_interrupt
-                0x00000000       0x32 src/ASF/sam/drivers/pio/pio.o
- .text.pio_enable_interrupt
-                0x00000000        0x4 src/ASF/sam/drivers/pio/pio.o
  .text.pio_disable_interrupt
                 0x00000000        0x4 src/ASF/sam/drivers/pio/pio.o
  .text.pio_set_additional_interrupt_mode
@@ -4125,8 +5246,6 @@ Discarded input sections
  .text          0x00000000        0x0 src/ASF/sam/drivers/pio/pio_handler.o
  .data          0x00000000        0x0 src/ASF/sam/drivers/pio/pio_handler.o
  .bss           0x00000000        0x0 src/ASF/sam/drivers/pio/pio_handler.o
- .text.pio_handler_set
-                0x00000000       0x70 src/ASF/sam/drivers/pio/pio_handler.o
  .text.pio_handler_set_pin
                 0x00000000       0x48 src/ASF/sam/drivers/pio/pio_handler.o
  .text.pio_handler_set_priority
@@ -4135,8 +5254,6 @@ Discarded input sections
                 0x00000000        0x4 src/ASF/sam/drivers/pio/pio_handler.o
  .bss.cpu_irq_prev_interrupt_state
                 0x00000000        0x1 src/ASF/sam/drivers/pio/pio_handler.o
- .bss.gs_ul_nb_sources
-                0x00000000        0x4 src/ASF/sam/drivers/pio/pio_handler.o
  .debug_macro   0x00000000      0x8ce src/ASF/sam/drivers/pio/pio_handler.o
  .debug_macro   0x00000000      0x16d src/ASF/sam/drivers/pio/pio_handler.o
  .debug_macro   0x00000000      0x64b src/ASF/sam/drivers/pio/pio_handler.o
@@ -5727,15 +6844,6 @@ Discarded input sections
  .text          0x00000000        0x0 src/main.o
  .data          0x00000000        0x0 src/main.o
  .bss           0x00000000        0x0 src/main.o
- .text.button1_handler
-                0x00000000        0xc src/main.o
- .text.button2_handler
-                0x00000000        0xc src/main.o
- .text.button3_handler
-                0x00000000        0xc src/main.o
- .text.init     0x00000000      0x118 src/main.o
- .text.pin_toggle
-                0x00000000       0x2c src/main.o
  .bss.cpu_irq_critical_section_counter
                 0x00000000        0x4 src/main.o
  .bss.cpu_irq_prev_interrupt_state
@@ -5978,7 +7086,10 @@ Linker script and memory map
 LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crti.o
 LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
 LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/crt0.o
+LOAD src/ASF/sam/drivers/rtc/rtc.o
+LOAD src/ASF/sam/drivers/rtt/rtt.o
 LOAD src/ASF/sam/drivers/spi/spi.o
+LOAD src/ASF/sam/drivers/tc/tc.o
 LOAD src/oled/gfx_mono_framebuffer.o
 LOAD src/oled/gfx_mono_generic.o
 LOAD src/oled/gfx_mono_text.o
@@ -6012,7 +7123,7 @@ LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin
                 0x2045fffc                __ram_end__ = ((ORIGIN (ram) + LENGTH (ram)) - 0x4)
                 0x00000200                HEAP_SIZE = DEFINED (HEAP_SIZE)?HEAP_SIZE:0x200
 
-.text           0x00400000     0x2194
+.text           0x00400000     0x2450
                 0x00400000                . = ALIGN (0x4)
                 0x00400000                _sfixed = .
  *(.vectors .vectors.*)
@@ -6105,251 +7216,283 @@ LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin
  .text.board_init
                 0x00400b00      0x140 src/ASF/sam/boards/same70_xplained/init.o
                 0x00400b00                board_init
+ .text.pio_set  0x00400c40        0x4 src/ASF/sam/drivers/pio/pio.o
+                0x00400c40                pio_set
+ .text.pio_clear
+                0x00400c44        0x4 src/ASF/sam/drivers/pio/pio.o
+                0x00400c44                pio_clear
  .text.pio_set_peripheral
-                0x00400c40       0x92 src/ASF/sam/drivers/pio/pio.o
-                0x00400c40                pio_set_peripheral
+                0x00400c48       0x92 src/ASF/sam/drivers/pio/pio.o
+                0x00400c48                pio_set_peripheral
  .text.pio_set_input
-                0x00400cd2       0x36 src/ASF/sam/drivers/pio/pio.o
-                0x00400cd2                pio_set_input
+                0x00400cda       0x36 src/ASF/sam/drivers/pio/pio.o
+                0x00400cda                pio_set_input
  .text.pio_set_output
-                0x00400d08       0x28 src/ASF/sam/drivers/pio/pio.o
-                0x00400d08                pio_set_output
+                0x00400d10       0x28 src/ASF/sam/drivers/pio/pio.o
+                0x00400d10                pio_set_output
  .text.pio_configure
-                0x00400d30       0x90 src/ASF/sam/drivers/pio/pio.o
-                0x00400d30                pio_configure
+                0x00400d38       0x90 src/ASF/sam/drivers/pio/pio.o
+                0x00400d38                pio_configure
+ .text.pio_get_output_data_status
+                0x00400dc8        0xc src/ASF/sam/drivers/pio/pio.o
+                0x00400dc8                pio_get_output_data_status
+ .text.pio_configure_interrupt
+                0x00400dd4       0x32 src/ASF/sam/drivers/pio/pio.o
+                0x00400dd4                pio_configure_interrupt
+ .text.pio_enable_interrupt
+                0x00400e06        0x4 src/ASF/sam/drivers/pio/pio.o
+                0x00400e06                pio_enable_interrupt
  .text.pio_get_interrupt_status
-                0x00400dc0        0x4 src/ASF/sam/drivers/pio/pio.o
-                0x00400dc0                pio_get_interrupt_status
+                0x00400e0a        0x4 src/ASF/sam/drivers/pio/pio.o
+                0x00400e0a                pio_get_interrupt_status
  .text.pio_get_interrupt_mask
-                0x00400dc4        0x4 src/ASF/sam/drivers/pio/pio.o
-                0x00400dc4                pio_get_interrupt_mask
+                0x00400e0e        0x4 src/ASF/sam/drivers/pio/pio.o
+                0x00400e0e                pio_get_interrupt_mask
+ *fill*         0x00400e12        0x2 
  .text.pio_handler_process
-                0x00400dc8       0x50 src/ASF/sam/drivers/pio/pio_handler.o
-                0x00400dc8                pio_handler_process
+                0x00400e14       0x50 src/ASF/sam/drivers/pio/pio_handler.o
+                0x00400e14                pio_handler_process
+ .text.pio_handler_set
+                0x00400e64       0x70 src/ASF/sam/drivers/pio/pio_handler.o
+                0x00400e64                pio_handler_set
  .text.PIOA_Handler
-                0x00400e18       0x14 src/ASF/sam/drivers/pio/pio_handler.o
-                0x00400e18                PIOA_Handler
+                0x00400ed4       0x14 src/ASF/sam/drivers/pio/pio_handler.o
+                0x00400ed4                PIOA_Handler
  .text.PIOB_Handler
-                0x00400e2c       0x14 src/ASF/sam/drivers/pio/pio_handler.o
-                0x00400e2c                PIOB_Handler
+                0x00400ee8       0x14 src/ASF/sam/drivers/pio/pio_handler.o
+                0x00400ee8                PIOB_Handler
  .text.PIOC_Handler
-                0x00400e40       0x14 src/ASF/sam/drivers/pio/pio_handler.o
-                0x00400e40                PIOC_Handler
+                0x00400efc       0x14 src/ASF/sam/drivers/pio/pio_handler.o
+                0x00400efc                PIOC_Handler
  .text.PIOD_Handler
-                0x00400e54       0x14 src/ASF/sam/drivers/pio/pio_handler.o
-                0x00400e54                PIOD_Handler
+                0x00400f10       0x14 src/ASF/sam/drivers/pio/pio_handler.o
+                0x00400f10                PIOD_Handler
  .text.PIOE_Handler
-                0x00400e68       0x14 src/ASF/sam/drivers/pio/pio_handler.o
-                0x00400e68                PIOE_Handler
+                0x00400f24       0x14 src/ASF/sam/drivers/pio/pio_handler.o
+                0x00400f24                PIOE_Handler
  .text.pmc_mck_set_division
-                0x00400e7c       0x38 src/ASF/sam/drivers/pmc/pmc.o
-                0x00400e7c                pmc_mck_set_division
+                0x00400f38       0x38 src/ASF/sam/drivers/pmc/pmc.o
+                0x00400f38                pmc_mck_set_division
  .text.pmc_switch_mck_to_pllack
-                0x00400eb4       0x64 src/ASF/sam/drivers/pmc/pmc.o
-                0x00400eb4                pmc_switch_mck_to_pllack
+                0x00400f70       0x64 src/ASF/sam/drivers/pmc/pmc.o
+                0x00400f70                pmc_switch_mck_to_pllack
  .text.pmc_switch_mainck_to_xtal
-                0x00400f18       0x54 src/ASF/sam/drivers/pmc/pmc.o
-                0x00400f18                pmc_switch_mainck_to_xtal
+                0x00400fd4       0x54 src/ASF/sam/drivers/pmc/pmc.o
+                0x00400fd4                pmc_switch_mainck_to_xtal
  .text.pmc_osc_is_ready_mainck
-                0x00400f6c       0x10 src/ASF/sam/drivers/pmc/pmc.o
-                0x00400f6c                pmc_osc_is_ready_mainck
+                0x00401028       0x10 src/ASF/sam/drivers/pmc/pmc.o
+                0x00401028                pmc_osc_is_ready_mainck
  .text.pmc_disable_pllack
-                0x00400f7c       0x10 src/ASF/sam/drivers/pmc/pmc.o
-                0x00400f7c                pmc_disable_pllack
+                0x00401038       0x10 src/ASF/sam/drivers/pmc/pmc.o
+                0x00401038                pmc_disable_pllack
  .text.pmc_is_locked_pllack
-                0x00400f8c       0x10 src/ASF/sam/drivers/pmc/pmc.o
-                0x00400f8c                pmc_is_locked_pllack
+                0x00401048       0x10 src/ASF/sam/drivers/pmc/pmc.o
+                0x00401048                pmc_is_locked_pllack
  .text.pmc_enable_periph_clk
-                0x00400f9c       0x54 src/ASF/sam/drivers/pmc/pmc.o
-                0x00400f9c                pmc_enable_periph_clk
+                0x00401058       0x54 src/ASF/sam/drivers/pmc/pmc.o
+                0x00401058                pmc_enable_periph_clk
  .text.pmc_set_flash_in_wait_mode
-                0x00400ff0        0x2 src/ASF/sam/drivers/pmc/pmc.o
-                0x00400ff0                pmc_set_flash_in_wait_mode
- *fill*         0x00400ff2        0x2 
+                0x004010ac        0x2 src/ASF/sam/drivers/pmc/pmc.o
+                0x004010ac                pmc_set_flash_in_wait_mode
+ *fill*         0x004010ae        0x2 
  .text.pmc_enable_waitmode
-                0x00400ff4       0x4c src/ASF/sam/drivers/pmc/pmc.o
-                0x00400ff4                pmc_enable_waitmode
+                0x004010b0       0x4c src/ASF/sam/drivers/pmc/pmc.o
+                0x004010b0                pmc_enable_waitmode
  .text.pmc_sleep
-                0x00401040      0x274 src/ASF/sam/drivers/pmc/sleep.o
-                0x00401040                pmc_sleep
+                0x004010fc      0x274 src/ASF/sam/drivers/pmc/sleep.o
+                0x004010fc                pmc_sleep
  .text.Dummy_Handler
-                0x004012b4        0x2 src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
-                0x004012b4                DACC_Handler
-                0x004012b4                DebugMon_Handler
-                0x004012b4                UART3_Handler
-                0x004012b4                UART2_Handler
-                0x004012b4                TRNG_Handler
-                0x004012b4                HardFault_Handler
-                0x004012b4                TC2_Handler
-                0x004012b4                SysTick_Handler
-                0x004012b4                AFEC1_Handler
-                0x004012b4                PendSV_Handler
-                0x004012b4                NMI_Handler
-                0x004012b4                TC7_Handler
-                0x004012b4                QSPI_Handler
-                0x004012b4                ISI_Handler
-                0x004012b4                TC9_Handler
-                0x004012b4                RSWDT_Handler
-                0x004012b4                MCAN1_Handler
-                0x004012b4                USART0_Handler
-                0x004012b4                RTT_Handler
-                0x004012b4                USBHS_Handler
-                0x004012b4                RTC_Handler
-                0x004012b4                UsageFault_Handler
-                0x004012b4                TC6_Handler
-                0x004012b4                WDT_Handler
-                0x004012b4                TC4_Handler
-                0x004012b4                TC1_Handler
-                0x004012b4                HSMCI_Handler
-                0x004012b4                UART1_Handler
-                0x004012b4                TC3_Handler
-                0x004012b4                Dummy_Handler
-                0x004012b4                TWIHS1_Handler
-                0x004012b4                XDMAC_Handler
-                0x004012b4                UART4_Handler
-                0x004012b4                PWM1_Handler
-                0x004012b4                USART1_Handler
-                0x004012b4                PWM0_Handler
-                0x004012b4                AFEC0_Handler
-                0x004012b4                SSC_Handler
-                0x004012b4                TC11_Handler
-                0x004012b4                ACC_Handler
-                0x004012b4                PMC_Handler
-                0x004012b4                GMAC_Handler
-                0x004012b4                MemManage_Handler
-                0x004012b4                SUPC_Handler
-                0x004012b4                SVC_Handler
-                0x004012b4                TC8_Handler
-                0x004012b4                EFC_Handler
-                0x004012b4                USART2_Handler
-                0x004012b4                SDRAMC_Handler
-                0x004012b4                SPI1_Handler
-                0x004012b4                MCAN0_Handler
-                0x004012b4                TC10_Handler
-                0x004012b4                TWIHS2_Handler
-                0x004012b4                UART0_Handler
-                0x004012b4                BusFault_Handler
-                0x004012b4                RSTC_Handler
-                0x004012b4                TC0_Handler
-                0x004012b4                TC5_Handler
-                0x004012b4                ICM_Handler
-                0x004012b4                AES_Handler
-                0x004012b4                TWIHS0_Handler
-                0x004012b4                SPI0_Handler
- *fill*         0x004012b6        0x2 
+                0x00401370        0x2 src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
+                0x00401370                DACC_Handler
+                0x00401370                DebugMon_Handler
+                0x00401370                UART3_Handler
+                0x00401370                UART2_Handler
+                0x00401370                TRNG_Handler
+                0x00401370                HardFault_Handler
+                0x00401370                TC2_Handler
+                0x00401370                SysTick_Handler
+                0x00401370                AFEC1_Handler
+                0x00401370                PendSV_Handler
+                0x00401370                NMI_Handler
+                0x00401370                TC7_Handler
+                0x00401370                QSPI_Handler
+                0x00401370                ISI_Handler
+                0x00401370                TC9_Handler
+                0x00401370                RSWDT_Handler
+                0x00401370                MCAN1_Handler
+                0x00401370                USART0_Handler
+                0x00401370                RTT_Handler
+                0x00401370                USBHS_Handler
+                0x00401370                RTC_Handler
+                0x00401370                UsageFault_Handler
+                0x00401370                TC6_Handler
+                0x00401370                WDT_Handler
+                0x00401370                TC4_Handler
+                0x00401370                TC1_Handler
+                0x00401370                HSMCI_Handler
+                0x00401370                UART1_Handler
+                0x00401370                TC3_Handler
+                0x00401370                Dummy_Handler
+                0x00401370                TWIHS1_Handler
+                0x00401370                XDMAC_Handler
+                0x00401370                UART4_Handler
+                0x00401370                PWM1_Handler
+                0x00401370                USART1_Handler
+                0x00401370                PWM0_Handler
+                0x00401370                AFEC0_Handler
+                0x00401370                SSC_Handler
+                0x00401370                TC11_Handler
+                0x00401370                ACC_Handler
+                0x00401370                PMC_Handler
+                0x00401370                GMAC_Handler
+                0x00401370                MemManage_Handler
+                0x00401370                SUPC_Handler
+                0x00401370                SVC_Handler
+                0x00401370                TC8_Handler
+                0x00401370                EFC_Handler
+                0x00401370                USART2_Handler
+                0x00401370                SDRAMC_Handler
+                0x00401370                SPI1_Handler
+                0x00401370                MCAN0_Handler
+                0x00401370                TC10_Handler
+                0x00401370                TWIHS2_Handler
+                0x00401370                UART0_Handler
+                0x00401370                BusFault_Handler
+                0x00401370                RSTC_Handler
+                0x00401370                TC0_Handler
+                0x00401370                TC5_Handler
+                0x00401370                ICM_Handler
+                0x00401370                AES_Handler
+                0x00401370                TWIHS0_Handler
+                0x00401370                SPI0_Handler
+ *fill*         0x00401372        0x2 
  .text.Reset_Handler
-                0x004012b8       0xc8 src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
-                0x004012b8                Reset_Handler
+                0x00401374       0xc8 src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
+                0x00401374                Reset_Handler
  .text.SystemCoreClockUpdate
-                0x00401380      0x10c src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
-                0x00401380                SystemCoreClockUpdate
+                0x0040143c      0x10c src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
+                0x0040143c                SystemCoreClockUpdate
  .text.system_init_flash
-                0x0040148c       0x8c src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
-                0x0040148c                system_init_flash
- .text.main     0x00401518       0x94 src/main.o
-                0x00401518                main
+                0x00401548       0x8c src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
+                0x00401548                system_init_flash
+ .text.button1_handler
+                0x004015d4        0xc src/main.o
+                0x004015d4                button1_handler
+ .text.button2_handler
+                0x004015e0        0xc src/main.o
+                0x004015e0                button2_handler
+ .text.button3_handler
+                0x004015ec        0xc src/main.o
+                0x004015ec                button3_handler
+ .text.init     0x004015f8      0x14c src/main.o
+                0x004015f8                init
+ .text.pin_toggle
+                0x00401744       0x2c src/main.o
+                0x00401744                pin_toggle
+ .text.main     0x00401770       0xf8 src/main.o
+                0x00401770                main
  .text.__libc_init_array
-                0x004015ac       0x50 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-init.o)
-                0x004015ac                __libc_init_array
+                0x00401868       0x50 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+                0x00401868                __libc_init_array
  .text.startup.register_fini
-                0x004015fc       0x14 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
- .text.atexit   0x00401610        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-atexit.o)
-                0x00401610                atexit
+                0x004018b8       0x14 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x004018cc        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-atexit.o)
+                0x004018cc                atexit
  .text.__libc_fini_array
-                0x0040161c       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-fini.o)
-                0x0040161c                __libc_fini_array
+                0x004018d8       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-fini.o)
+                0x004018d8                __libc_fini_array
  .text.__retarget_lock_acquire_recursive
-                0x00401650        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
-                0x00401650                __retarget_lock_acquire_recursive
+                0x0040190c        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+                0x0040190c                __retarget_lock_acquire_recursive
  .text.__retarget_lock_release_recursive
-                0x00401654        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
-                0x00401654                __retarget_lock_release_recursive
+                0x00401910        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+                0x00401910                __retarget_lock_release_recursive
  .text.__register_exitproc
-                0x00401658       0xc4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__atexit.o)
-                0x00401658                __register_exitproc
+                0x00401914       0xc4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__atexit.o)
+                0x00401914                __register_exitproc
  *(.glue_7t)
- .glue_7t       0x0040171c        0x0 linker stubs
+ .glue_7t       0x004019d8        0x0 linker stubs
  *(.glue_7)
- .glue_7        0x0040171c        0x0 linker stubs
+ .glue_7        0x004019d8        0x0 linker stubs
  *(.rodata .rodata* .gnu.linkonce.r.*)
  .rodata.sysfont_glyphs
-                0x0040171c      0xa48 src/oled/sysfont.o
+                0x004019d8      0xa48 src/oled/sysfont.o
  .rodata.main.str1.4
-                0x00402164        0x8 src/main.o
-                                  0x6 (size before relaxing)
+                0x00402420        0x8 src/main.o
+                                  0x7 (size before relaxing)
  .rodata._global_impure_ptr
-                0x0040216c        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
-                0x0040216c                _global_impure_ptr
+                0x00402428        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+                0x00402428                _global_impure_ptr
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x00402170                . = ALIGN (0x4)
+                0x0040242c                . = ALIGN (0x4)
  *(.init)
- .init          0x00402170        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crti.o
-                0x00402170                _init
- .init          0x00402174        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtn.o
-                0x0040217c                . = ALIGN (0x4)
-                0x0040217c                __preinit_array_start = .
+ .init          0x0040242c        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crti.o
+                0x0040242c                _init
+ .init          0x00402430        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtn.o
+                0x00402438                . = ALIGN (0x4)
+                0x00402438                __preinit_array_start = .
  *(.preinit_array)
-                0x0040217c                __preinit_array_end = .
-                0x0040217c                . = ALIGN (0x4)
-                0x0040217c                __init_array_start = .
+                0x00402438                __preinit_array_end = .
+                0x00402438                . = ALIGN (0x4)
+                0x00402438                __init_array_start = .
  *(SORT(.init_array.*))
  .init_array.00000
-                0x0040217c        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
+                0x00402438        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
  *(.init_array)
- .init_array    0x00402180        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
-                0x00402184                __init_array_end = .
-                0x00402184                . = ALIGN (0x4)
+ .init_array    0x0040243c        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+                0x00402440                __init_array_end = .
+                0x00402440                . = ALIGN (0x4)
  *crtbegin.o(.ctors)
  *(EXCLUDE_FILE(*crtend.o) .ctors)
  *(SORT(.ctors.*))
  *crtend.o(.ctors)
-                0x00402184                . = ALIGN (0x4)
+                0x00402440                . = ALIGN (0x4)
  *(.fini)
- .fini          0x00402184        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crti.o
-                0x00402184                _fini
- .fini          0x00402188        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtn.o
-                0x00402190                . = ALIGN (0x4)
-                0x00402190                __fini_array_start = .
+ .fini          0x00402440        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crti.o
+                0x00402440                _fini
+ .fini          0x00402444        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtn.o
+                0x0040244c                . = ALIGN (0x4)
+                0x0040244c                __fini_array_start = .
  *(.fini_array)
- .fini_array    0x00402190        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+ .fini_array    0x0040244c        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
  *(SORT(.fini_array.*))
-                0x00402194                __fini_array_end = .
+                0x00402450                __fini_array_end = .
  *crtbegin.o(.dtors)
  *(EXCLUDE_FILE(*crtend.o) .dtors)
  *(SORT(.dtors.*))
  *crtend.o(.dtors)
-                0x00402194                . = ALIGN (0x4)
-                0x00402194                _efixed = .
+                0x00402450                . = ALIGN (0x4)
+                0x00402450                _efixed = .
                 [!provide]                PROVIDE (__exidx_start, .)
 
-.vfp11_veneer   0x00402194        0x0
- .vfp11_veneer  0x00402194        0x0 linker stubs
+.vfp11_veneer   0x00402450        0x0
+ .vfp11_veneer  0x00402450        0x0 linker stubs
 
-.v4_bx          0x00402194        0x0
- .v4_bx         0x00402194        0x0 linker stubs
+.v4_bx          0x00402450        0x0
+ .v4_bx         0x00402450        0x0 linker stubs
 
-.iplt           0x00402194        0x0
- .iplt          0x00402194        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+.iplt           0x00402450        0x0
+ .iplt          0x00402450        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
 
-.eh_frame       0x00402194        0x0
- .eh_frame      0x00402194        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+.eh_frame       0x00402450        0x0
+ .eh_frame      0x00402450        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
 
-.rel.dyn        0x00402194        0x0
- .rel.iplt      0x00402194        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+.rel.dyn        0x00402450        0x0
+ .rel.iplt      0x00402450        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
 
-.jcr            0x00402194        0x0
- .jcr           0x00402194        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+.jcr            0x00402450        0x0
+ .jcr           0x00402450        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
 
-.igot.plt       0x00402194        0x0
- .igot.plt      0x00402194        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+.igot.plt       0x00402450        0x0
+ .igot.plt      0x00402450        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
 
 .ARM.exidx
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
                 [!provide]                PROVIDE (__exidx_end, .)
-                0x00402194                . = ALIGN (0x4)
-                0x00402194                _etext = .
+                0x00402450                . = ALIGN (0x4)
+                0x00402450                _etext = .
 
-.relocate       0x20400000      0x44c load address 0x00402194
+.relocate       0x20400000      0x44c load address 0x00402450
                 0x20400000                . = ALIGN (0x4)
                 0x20400000                _srelocate = .
  *(.ramfunc .ramfunc.*)
@@ -6374,7 +7517,7 @@ LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin
                 0x2040044c                . = ALIGN (0x4)
                 0x2040044c                _erelocate = .
 
-.bss            0x2040044c      0x2c0 load address 0x004025e0
+.bss            0x2040044c      0x2c4 load address 0x0040289c
                 0x2040044c                . = ALIGN (0x4)
                 0x2040044c                _sbss = .
                 0x2040044c                _szero = .
@@ -6386,47 +7529,48 @@ LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin
                 0x2040046c      0x200 src/oled/gfx_mono_ug_2832hsweg04.o
  .bss.gs_interrupt_sources
                 0x2040066c       0x70 src/ASF/sam/drivers/pio/pio_handler.o
+ .bss.gs_ul_nb_sources
+                0x204006dc        0x4 src/ASF/sam/drivers/pio/pio_handler.o
  .bss.b_is_sleep_clock_used
-                0x204006dc        0x1 src/ASF/sam/drivers/pmc/sleep.o
- *fill*         0x204006dd        0x3 
+                0x204006e0        0x1 src/ASF/sam/drivers/pmc/sleep.o
+ *fill*         0x204006e1        0x3 
  .bss.callback_clocks_restored
-                0x204006e0        0x4 src/ASF/sam/drivers/pmc/sleep.o
+                0x204006e4        0x4 src/ASF/sam/drivers/pmc/sleep.o
  .bss.button1_flag
-                0x204006e4        0x1 src/main.o
-                0x204006e4                button1_flag
+                0x204006e8        0x1 src/main.o
+                0x204006e8                button1_flag
  .bss.button2_flag
-                0x204006e5        0x1 src/main.o
-                0x204006e5                button2_flag
+                0x204006e9        0x1 src/main.o
+                0x204006e9                button2_flag
  .bss.button3_flag
-                0x204006e6        0x1 src/main.o
-                0x204006e6                button3_flag
+                0x204006ea        0x1 src/main.o
+                0x204006ea                button3_flag
  *(COMMON)
- *fill*         0x204006e7        0x1 
- COMMON         0x204006e8       0x21 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
-                0x204006e8                __lock___atexit_recursive_mutex
-                0x204006ec                __lock___arc4random_mutex
-                0x204006f0                __lock___env_recursive_mutex
-                0x204006f4                __lock___sinit_recursive_mutex
-                0x204006f8                __lock___malloc_recursive_mutex
-                0x204006fc                __lock___at_quick_exit_mutex
-                0x20400700                __lock___dd_hash_mutex
-                0x20400704                __lock___tz_mutex
-                0x20400708                __lock___sfp_recursive_mutex
-                0x2040070c                . = ALIGN (0x4)
- *fill*         0x20400709        0x3 
-                0x2040070c                _ebss = .
-                0x2040070c                _ezero = .
+ *fill*         0x204006eb        0x1 
+ COMMON         0x204006ec       0x21 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+                0x204006ec                __lock___atexit_recursive_mutex
+                0x204006f0                __lock___arc4random_mutex
+                0x204006f4                __lock___env_recursive_mutex
+                0x204006f8                __lock___sinit_recursive_mutex
+                0x204006fc                __lock___malloc_recursive_mutex
+                0x20400700                __lock___at_quick_exit_mutex
+                0x20400704                __lock___dd_hash_mutex
+                0x20400708                __lock___tz_mutex
+                0x2040070c                __lock___sfp_recursive_mutex
+                0x20400710                . = ALIGN (0x4)
+ *fill*         0x2040070d        0x3 
+                0x20400710                _ebss = .
+                0x20400710                _ezero = .
 
-.stack          0x2040070c     0x2004 load address 0x004028a0
+.stack          0x20400710     0x2000 load address 0x00402b60
                 0x20400710                . = ALIGN (0x8)
- *fill*         0x2040070c        0x4 
                 0x20400710                _sstack = .
                 0x20402710                . = (. + STACK_SIZE)
  *fill*         0x20400710     0x2000 
                 0x20402710                . = ALIGN (0x8)
                 0x20402710                _estack = .
 
-.heap           0x20402710      0x200 load address 0x004048a4
+.heap           0x20402710      0x200 load address 0x00404b60
                 0x20402710                . = ALIGN (0x8)
                 0x20402710                _sheap = .
                 0x20402910                . = (. + HEAP_SIZE)
@@ -6518,7 +7662,7 @@ OUTPUT(OLED1.elf elf32-littlearm)
  .comment       0x00000059       0x5a src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
  .comment       0x00000059       0x5a src/main.o
 
-.debug_info     0x00000000    0x167d4
+.debug_info     0x00000000    0x16cd3
  .debug_info    0x00000000     0x115d src/ASF/sam/drivers/spi/spi.o
  .debug_info    0x0000115d      0xdd2 src/oled/gfx_mono_framebuffer.o
  .debug_info    0x00001f2f     0x157d src/oled/gfx_mono_generic.o
@@ -6536,7 +7680,7 @@ OUTPUT(OLED1.elf elf32-littlearm)
  .debug_info    0x00011e6e     0x165a src/ASF/sam/drivers/pmc/sleep.o
  .debug_info    0x000134c8     0x156a src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
  .debug_info    0x00014a32      0x55b src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
- .debug_info    0x00014f8d     0x1847 src/main.o
+ .debug_info    0x00014f8d     0x1d46 src/main.o
 
 .debug_abbrev   0x00000000     0x335b
  .debug_abbrev  0x00000000      0x3a5 src/ASF/sam/drivers/spi/spi.o
@@ -6558,7 +7702,7 @@ OUTPUT(OLED1.elf elf32-littlearm)
  .debug_abbrev  0x00002f37      0x102 src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
  .debug_abbrev  0x00003039      0x322 src/main.o
 
-.debug_loc      0x00000000     0x5320
+.debug_loc      0x00000000     0x5402
  .debug_loc     0x00000000      0x610 src/ASF/sam/drivers/spi/spi.o
  .debug_loc     0x00000610      0x506 src/oled/gfx_mono_framebuffer.o
  .debug_loc     0x00000b16      0xda8 src/oled/gfx_mono_generic.o
@@ -6572,7 +7716,7 @@ OUTPUT(OLED1.elf elf32-littlearm)
  .debug_loc     0x00004111      0xce3 src/ASF/sam/drivers/pmc/pmc.o
  .debug_loc     0x00004df4      0x389 src/ASF/sam/drivers/pmc/sleep.o
  .debug_loc     0x0000517d       0x77 src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
- .debug_loc     0x000051f4      0x12c src/main.o
+ .debug_loc     0x000051f4      0x20e src/main.o
 
 .debug_aranges  0x00000000      0x7f8
  .debug_aranges
@@ -6631,259 +7775,117 @@ OUTPUT(OLED1.elf elf32-littlearm)
  .debug_ranges  0x00000810       0x20 src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
  .debug_ranges  0x00000830       0x38 src/main.o
 
-.debug_macro    0x00000000    0x20bf6
+.debug_macro    0x00000000     0x9776
  .debug_macro   0x00000000      0x6d9 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000006d9      0x8ce src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00000fa7      0x16d src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00001114      0x64b src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000175f       0x76 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000017d5       0x16 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000017eb      0x6e4 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00001ecf       0x22 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00001ef1       0x87 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00001f78       0x51 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00001fc9       0xef src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000020b8       0x6a src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00002122      0x1df src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00002301       0x4a src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000234b       0x3b src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00002386       0x2d src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000023b3       0x26 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000023d9      0xf9a src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00003373      0x175 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000034e8      0x257 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000373f      0xa0f src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000414e      0x1b9 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00004307      0x336 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000463d      0x15b src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00004798     0x1851 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00005fe9       0x1c src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00006005      0x68d src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00006692      0x31e src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000069b0      0x4d4 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00006e84      0x56e src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000073f2     0x1332 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00008724     0x278d src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000aeb1     0x102b src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000bedc      0xe01 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000ccdd      0x3b1 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000d08e       0xa0 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000d12e       0x76 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000d1a4      0x409 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000d5ad       0x64 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000d611      0x284 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000d895      0x1d0 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000da65      0x248 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000dcad      0x524 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000e1d1      0x63b src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000e80c      0x6b8 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000eec4       0x4c src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000ef10      0x468 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000f378      0x207 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000f57f      0x866 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0000fde5     0x1547 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0001132c       0x40 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0001136c       0x76 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000113e2      0xdaf src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00012191       0x82 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00012213       0x76 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00012289       0x4c src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000122d5      0x135 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0001240a      0x135 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0001253f      0x135 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00012674       0x6a src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000126de       0x6a src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00012748      0x313 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00012a5b       0xb2 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00012b0d       0xb2 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00012bbf       0xb2 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00012c71      0x11d src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00012d8e      0x11d src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00012eab      0x2cd src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00013178       0xb8 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00013230       0x5e src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0001328e       0x40 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000132ce       0x4c src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0001331a       0xa0 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000133ba      0x494 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0001384e      0x135 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00013983       0x4c src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000139cf      0x313 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00013ce2       0x6a src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00013d4c       0xb8 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00013e04       0x6a src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00013e6e       0x2e src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00013e9c      0x9b1 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0001484d       0x6a src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000148b7       0x88 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0001493f       0x58 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00014997       0xe2 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00014a79       0x16 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00014a8f       0xe2 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00014b71       0x4c src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00014bbd       0x16 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00014bd3       0x4c src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00014c1f       0x2e src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00014c4d      0x1b5 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00014e02      0x1b5 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00014fb7      0x1b5 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0001516c      0x1b5 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00015321      0x1b5 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000154d6       0x1c src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000154f2       0x2e src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00015520       0x22 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00015542       0x1c src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0001555e       0x52 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000155b0       0x10 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000155c0       0x1c src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000155dc       0x4c src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00015628       0x4c src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00015674       0x4c src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000156c0      0x31b src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000159db     0x1022 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000169fd      0x107 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00016b04       0x58 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00016b5c       0x35 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00016b91       0x9c src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00016c2d       0x16 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00016c43       0x35 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00016c78      0x353 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00016fcb       0x10 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00016fdb       0x58 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00017033       0x1f src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00017052       0x43 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00017095       0x20 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000170b5      0x187 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0001723c       0x10 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0001724c       0x1c src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00017268       0x52 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000172ba       0x40 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000172fa       0x10 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0001730a       0x40 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0001734a       0xd7 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00017421       0x16 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00017437      0x18b src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000175c2       0x22 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000175e4       0x16 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000175fa       0x16 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00017610       0x29 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00017639       0x75 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000176ae       0x3f src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000176ed      0x3ca src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00017ab7       0x10 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00017ac7       0x3a src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00017b01      0x2c6 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00017dc7      0xa96 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x0001885d       0x70 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x000188cd       0x64 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00018931       0x5f src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00018990       0xac src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00018a3c      0x7c5 src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x00019201       0x50 src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x00019251       0x22 src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x00019273       0x7b src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x000192ee       0x28 src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x00019316       0x23 src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x00019339       0x94 src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x000193cd       0x40 src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x0001940d       0x88 src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x00019495      0x1ce src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x00019663       0x34 src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x00019697       0x16 src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x000196ad       0x1c src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x000196c9       0x16 src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x000196df       0x28 src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x00019707       0xd1 src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x000197d8       0x8b src/oled/gfx_mono_framebuffer.o
- .debug_macro   0x00019863      0x7c5 src/oled/gfx_mono_generic.o
- .debug_macro   0x0001a028      0x7de src/oled/gfx_mono_text.o
- .debug_macro   0x0001a806       0x52 src/oled/gfx_mono_text.o
- .debug_macro   0x0001a858       0x8d src/oled/gfx_mono_text.o
- .debug_macro   0x0001a8e5       0x16 src/oled/gfx_mono_text.o
- .debug_macro   0x0001a8fb       0x57 src/oled/gfx_mono_text.o
- .debug_macro   0x0001a952       0x1c src/oled/gfx_mono_text.o
- .debug_macro   0x0001a96e      0x7c9 src/oled/gfx_mono_ug_2832hsweg04.o
- .debug_macro   0x0001b137       0x28 src/oled/gfx_mono_ug_2832hsweg04.o
- .debug_macro   0x0001b15f      0x79f src/oled/ssd1306.o
- .debug_macro   0x0001b8fe      0x69c src/oled/sysfont.o
- .debug_macro   0x0001bf9a       0x3a src/oled/sysfont.o
- .debug_macro   0x0001bfd4      0x665 src/ASF/common/services/delay/sam/cycle_counter.o
- .debug_macro   0x0001c639       0x22 src/ASF/common/services/delay/sam/cycle_counter.o
- .debug_macro   0x0001c65b      0x6d1 src/ASF/common/services/clock/same70/sysclk.o
- .debug_macro   0x0001cd2c      0x2c0 src/ASF/common/services/clock/same70/sysclk.o
- .debug_macro   0x0001cfec      0x655 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
- .debug_macro   0x0001d641      0x70b src/ASF/sam/boards/same70_xplained/init.o
- .debug_macro   0x0001dd4c       0x82 src/ASF/sam/boards/same70_xplained/init.o
- .debug_macro   0x0001ddce      0x66b src/ASF/sam/drivers/pio/pio.o
- .debug_macro   0x0001e439       0x8e src/ASF/sam/drivers/pio/pio.o
- .debug_macro   0x0001e4c7      0x676 src/ASF/sam/drivers/pio/pio_handler.o
- .debug_macro   0x0001eb3d      0x66b src/ASF/sam/drivers/pmc/pmc.o
- .debug_macro   0x0001f1a8       0x6a src/ASF/sam/drivers/pmc/pmc.o
- .debug_macro   0x0001f212      0x684 src/ASF/sam/drivers/pmc/sleep.o
- .debug_macro   0x0001f896      0x664 src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
- .debug_macro   0x0001fefa       0x10 src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
- .debug_macro   0x0001ff0a      0x455 src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
- .debug_macro   0x0002035f      0x897 src/main.o
+ .debug_macro   0x000006d9       0x10 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x000006e9       0x3a src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00000723      0x2c6 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x000009e9      0xa96 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x0000147f       0x70 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x000014ef       0x64 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x00001553       0x5f src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x000015b2       0xac src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x0000165e      0x7e6 src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x00001e44       0x50 src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x00001e94       0x22 src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x00001eb6       0x7b src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x00001f31       0x28 src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x00001f59       0x23 src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x00001f7c       0x94 src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x00002010       0x40 src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x00002050       0x88 src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x000020d8      0x1ce src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x000022a6       0x34 src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x000022da       0x16 src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x000022f0       0x1c src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x0000230c       0x16 src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x00002322       0x28 src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x0000234a       0xd1 src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x0000241b       0x8b src/oled/gfx_mono_framebuffer.o
+ .debug_macro   0x000024a6      0x7e6 src/oled/gfx_mono_generic.o
+ .debug_macro   0x00002c8c      0x7ff src/oled/gfx_mono_text.o
+ .debug_macro   0x0000348b      0x7ea src/oled/gfx_mono_ug_2832hsweg04.o
+ .debug_macro   0x00003c75       0x28 src/oled/gfx_mono_ug_2832hsweg04.o
+ .debug_macro   0x00003c9d      0x7c0 src/oled/ssd1306.o
+ .debug_macro   0x0000445d      0x69c src/oled/sysfont.o
+ .debug_macro   0x00004af9       0x3a src/oled/sysfont.o
+ .debug_macro   0x00004b33      0x665 src/ASF/common/services/delay/sam/cycle_counter.o
+ .debug_macro   0x00005198       0x22 src/ASF/common/services/delay/sam/cycle_counter.o
+ .debug_macro   0x000051ba      0x6d1 src/ASF/common/services/clock/same70/sysclk.o
+ .debug_macro   0x0000588b      0x2c0 src/ASF/common/services/clock/same70/sysclk.o
+ .debug_macro   0x00005b4b      0x655 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+ .debug_macro   0x000061a0      0x70b src/ASF/sam/boards/same70_xplained/init.o
+ .debug_macro   0x000068ab       0x82 src/ASF/sam/boards/same70_xplained/init.o
+ .debug_macro   0x0000692d      0x66b src/ASF/sam/drivers/pio/pio.o
+ .debug_macro   0x00006f98       0x8e src/ASF/sam/drivers/pio/pio.o
+ .debug_macro   0x00007026      0x676 src/ASF/sam/drivers/pio/pio_handler.o
+ .debug_macro   0x0000769c      0x66b src/ASF/sam/drivers/pmc/pmc.o
+ .debug_macro   0x00007d07       0x6a src/ASF/sam/drivers/pmc/pmc.o
+ .debug_macro   0x00007d71      0x684 src/ASF/sam/drivers/pmc/sleep.o
+ .debug_macro   0x000083f5      0x664 src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
+ .debug_macro   0x00008a59       0x10 src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
+ .debug_macro   0x00008a69      0x455 src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
+ .debug_macro   0x00008ebe      0x8b8 src/main.o
 
-.debug_line     0x00000000     0xdf18
+.debug_line     0x00000000     0xe1b3
  .debug_line    0x00000000      0xc41 src/ASF/sam/drivers/spi/spi.o
- .debug_line    0x00000c41      0xe1d src/oled/gfx_mono_framebuffer.o
- .debug_line    0x00001a5e      0xed1 src/oled/gfx_mono_generic.o
- .debug_line    0x0000292f      0xe2b src/oled/gfx_mono_text.o
- .debug_line    0x0000375a      0xea5 src/oled/gfx_mono_ug_2832hsweg04.o
- .debug_line    0x000045ff      0xdfa src/oled/ssd1306.o
- .debug_line    0x000053f9      0xa1b src/oled/sysfont.o
- .debug_line    0x00005e14      0x9ed src/ASF/common/services/delay/sam/cycle_counter.o
- .debug_line    0x00006801      0xb4f src/ASF/common/services/clock/same70/sysclk.o
- .debug_line    0x00007350      0xa01 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
- .debug_line    0x00007d51      0xc04 src/ASF/sam/boards/same70_xplained/init.o
- .debug_line    0x00008955      0xee3 src/ASF/sam/drivers/pio/pio.o
- .debug_line    0x00009838      0xabf src/ASF/sam/drivers/pio/pio_handler.o
- .debug_line    0x0000a2f7     0x106b src/ASF/sam/drivers/pmc/pmc.o
- .debug_line    0x0000b362      0xb4c src/ASF/sam/drivers/pmc/sleep.o
- .debug_line    0x0000beae      0xa73 src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
- .debug_line    0x0000c921      0x7e9 src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
- .debug_line    0x0000d10a      0xe0e src/main.o
+ .debug_line    0x00000c41      0xe87 src/oled/gfx_mono_framebuffer.o
+ .debug_line    0x00001ac8      0xf3b src/oled/gfx_mono_generic.o
+ .debug_line    0x00002a03      0xe95 src/oled/gfx_mono_text.o
+ .debug_line    0x00003898      0xf0f src/oled/gfx_mono_ug_2832hsweg04.o
+ .debug_line    0x000047a7      0xe64 src/oled/ssd1306.o
+ .debug_line    0x0000560b      0xa1b src/oled/sysfont.o
+ .debug_line    0x00006026      0x9ed src/ASF/common/services/delay/sam/cycle_counter.o
+ .debug_line    0x00006a13      0xb4f src/ASF/common/services/clock/same70/sysclk.o
+ .debug_line    0x00007562      0xa01 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+ .debug_line    0x00007f63      0xc04 src/ASF/sam/boards/same70_xplained/init.o
+ .debug_line    0x00008b67      0xee3 src/ASF/sam/drivers/pio/pio.o
+ .debug_line    0x00009a4a      0xabf src/ASF/sam/drivers/pio/pio_handler.o
+ .debug_line    0x0000a509     0x106b src/ASF/sam/drivers/pmc/pmc.o
+ .debug_line    0x0000b574      0xb4c src/ASF/sam/drivers/pmc/sleep.o
+ .debug_line    0x0000c0c0      0xa73 src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
+ .debug_line    0x0000cb33      0x7e9 src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
+ .debug_line    0x0000d31c      0xe97 src/main.o
 
-.debug_str      0x00000000    0x8fa0d
+.debug_str      0x00000000    0x8fa2d
  .debug_str     0x00000000    0x85e86 src/ASF/sam/drivers/spi/spi.o
                               0x86543 (size before relaxing)
- .debug_str     0x00085e86     0x2ac3 src/oled/gfx_mono_framebuffer.o
-                              0x88c10 (size before relaxing)
- .debug_str     0x00088949      0x25c src/oled/gfx_mono_generic.o
-                              0x88d54 (size before relaxing)
- .debug_str     0x00088ba5      0x266 src/oled/gfx_mono_text.o
-                              0x88d2f (size before relaxing)
- .debug_str     0x00088e0b      0x11c src/oled/gfx_mono_ug_2832hsweg04.o
-                              0x88cf0 (size before relaxing)
- .debug_str     0x00088f27      0x612 src/oled/ssd1306.o
-                              0x88928 (size before relaxing)
- .debug_str     0x00089539     0x3ee1 src/oled/sysfont.o
+ .debug_str     0x00085e86     0x2ae3 src/oled/gfx_mono_framebuffer.o
+                              0x88c3f (size before relaxing)
+ .debug_str     0x00088969      0x25c src/oled/gfx_mono_generic.o
+                              0x88d83 (size before relaxing)
+ .debug_str     0x00088bc5      0x266 src/oled/gfx_mono_text.o
+                              0x88d5e (size before relaxing)
+ .debug_str     0x00088e2b      0x11c src/oled/gfx_mono_ug_2832hsweg04.o
+                              0x88d1f (size before relaxing)
+ .debug_str     0x00088f47      0x612 src/oled/ssd1306.o
+                              0x88957 (size before relaxing)
+ .debug_str     0x00089559     0x3ee1 src/oled/sysfont.o
                               0x86175 (size before relaxing)
- .debug_str     0x0008d41a       0x35 src/ASF/common/services/delay/sam/cycle_counter.o
+ .debug_str     0x0008d43a       0x35 src/ASF/common/services/delay/sam/cycle_counter.o
                               0x820a9 (size before relaxing)
- .debug_str     0x0008d44f      0x3f1 src/ASF/common/services/clock/same70/sysclk.o
+ .debug_str     0x0008d46f      0x3f1 src/ASF/common/services/clock/same70/sysclk.o
                               0x865c7 (size before relaxing)
- .debug_str     0x0008d840       0x94 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
+ .debug_str     0x0008d860       0x94 src/ASF/common/utils/interrupt/interrupt_sam_nvic.o
                               0x81f79 (size before relaxing)
- .debug_str     0x0008d8d4      0x4f4 src/ASF/sam/boards/same70_xplained/init.o
+ .debug_str     0x0008d8f4      0x4f4 src/ASF/sam/boards/same70_xplained/init.o
                               0x870b7 (size before relaxing)
- .debug_str     0x0008ddc8      0x57b src/ASF/sam/drivers/pio/pio.o
+ .debug_str     0x0008dde8      0x57b src/ASF/sam/drivers/pio/pio.o
                               0x82acf (size before relaxing)
- .debug_str     0x0008e343      0x437 src/ASF/sam/drivers/pio/pio_handler.o
+ .debug_str     0x0008e363      0x437 src/ASF/sam/drivers/pio/pio_handler.o
                               0x82bf1 (size before relaxing)
- .debug_str     0x0008e77a      0x699 src/ASF/sam/drivers/pmc/pmc.o
+ .debug_str     0x0008e79a      0x699 src/ASF/sam/drivers/pmc/pmc.o
                               0x82c33 (size before relaxing)
- .debug_str     0x0008ee13      0x16e src/ASF/sam/drivers/pmc/sleep.o
+ .debug_str     0x0008ee33      0x16e src/ASF/sam/drivers/pmc/sleep.o
                               0x85ef2 (size before relaxing)
- .debug_str     0x0008ef81      0x64c src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
+ .debug_str     0x0008efa1      0x64c src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
                               0x82746 (size before relaxing)
- .debug_str     0x0008f5cd      0x137 src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
+ .debug_str     0x0008f5ed      0x137 src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
                               0x72852 (size before relaxing)
- .debug_str     0x0008f704      0x309 src/main.o
-                              0x8d3eb (size before relaxing)
+ .debug_str     0x0008f724      0x309 src/main.o
+                              0x8d551 (size before relaxing)
 
-.debug_frame    0x00000000     0x134c
+.debug_frame    0x00000000     0x1354
  .debug_frame   0x00000000      0x140 src/ASF/sam/drivers/spi/spi.o
  .debug_frame   0x00000140       0xdc src/oled/gfx_mono_framebuffer.o
  .debug_frame   0x0000021c      0x168 src/oled/gfx_mono_generic.o
@@ -6900,13 +7902,13 @@ OUTPUT(OLED1.elf elf32-littlearm)
  .debug_frame   0x00001018       0x5c src/ASF/sam/drivers/pmc/sleep.o
  .debug_frame   0x00001074       0x38 src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
  .debug_frame   0x000010ac       0x40 src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
- .debug_frame   0x000010ec       0xa0 src/main.o
- .debug_frame   0x0000118c       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-init.o)
- .debug_frame   0x000011b8       0x5c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
- .debug_frame   0x00001214       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-atexit.o)
- .debug_frame   0x00001234       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-fini.o)
- .debug_frame   0x00001268       0xb0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
- .debug_frame   0x00001318       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x000010ec       0xa8 src/main.o
+ .debug_frame   0x00001194       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+ .debug_frame   0x000011c0       0x5c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000121c       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000123c       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-fini.o)
+ .debug_frame   0x00001270       0xb0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .debug_frame   0x00001320       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__atexit.o)
 
 Cross Reference Table
 
@@ -7206,7 +8208,6 @@ pio_set_input                                     src/ASF/sam/drivers/pio/pio.o
 pio_set_io_drive                                  src/ASF/sam/drivers/pio/pio.o
 pio_set_multi_driver                              src/ASF/sam/drivers/pio/pio.o
 pio_set_output                                    src/ASF/sam/drivers/pio/pio.o
-                                                  src/main.o
 pio_set_peripheral                                src/ASF/sam/drivers/pio/pio.o
 pio_set_pin_group_high                            src/ASF/sam/drivers/pio/pio.o
 pio_set_pin_group_low                             src/ASF/sam/drivers/pio/pio.o
@@ -7313,6 +8314,35 @@ pmc_switch_udpck_to_upllck                        src/ASF/sam/drivers/pmc/pmc.o
 pmc_wait_wakeup_clocks_restore                    src/ASF/sam/drivers/pmc/sleep.o
 portable_delay_cycles                             src/ASF/common/services/delay/sam/cycle_counter.o
                                                   src/oled/ssd1306.o
+rtc_clear_date_alarm                              src/ASF/sam/drivers/rtc/rtc.o
+rtc_clear_status                                  src/ASF/sam/drivers/rtc/rtc.o
+rtc_clear_time_alarm                              src/ASF/sam/drivers/rtc/rtc.o
+rtc_disable_interrupt                             src/ASF/sam/drivers/rtc/rtc.o
+rtc_enable_interrupt                              src/ASF/sam/drivers/rtc/rtc.o
+rtc_get_date                                      src/ASF/sam/drivers/rtc/rtc.o
+rtc_get_hour_mode                                 src/ASF/sam/drivers/rtc/rtc.o
+rtc_get_interrupt_mask                            src/ASF/sam/drivers/rtc/rtc.o
+rtc_get_status                                    src/ASF/sam/drivers/rtc/rtc.o
+rtc_get_time                                      src/ASF/sam/drivers/rtc/rtc.o
+rtc_get_valid_entry                               src/ASF/sam/drivers/rtc/rtc.o
+rtc_set_calendar_event                            src/ASF/sam/drivers/rtc/rtc.o
+rtc_set_date                                      src/ASF/sam/drivers/rtc/rtc.o
+rtc_set_date_alarm                                src/ASF/sam/drivers/rtc/rtc.o
+rtc_set_hour_mode                                 src/ASF/sam/drivers/rtc/rtc.o
+rtc_set_pulse_parameter                           src/ASF/sam/drivers/rtc/rtc.o
+rtc_set_time                                      src/ASF/sam/drivers/rtc/rtc.o
+rtc_set_time_alarm                                src/ASF/sam/drivers/rtc/rtc.o
+rtc_set_time_event                                src/ASF/sam/drivers/rtc/rtc.o
+rtc_set_waveform                                  src/ASF/sam/drivers/rtc/rtc.o
+rtt_disable                                       src/ASF/sam/drivers/rtt/rtt.o
+rtt_disable_interrupt                             src/ASF/sam/drivers/rtt/rtt.o
+rtt_enable                                        src/ASF/sam/drivers/rtt/rtt.o
+rtt_enable_interrupt                              src/ASF/sam/drivers/rtt/rtt.o
+rtt_get_status                                    src/ASF/sam/drivers/rtt/rtt.o
+rtt_init                                          src/ASF/sam/drivers/rtt/rtt.o
+rtt_read_timer_value                              src/ASF/sam/drivers/rtt/rtt.o
+rtt_sel_source                                    src/ASF/sam/drivers/rtt/rtt.o
+rtt_write_alarm_time                              src/ASF/sam/drivers/rtt/rtt.o
 software_init_hook                                c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/crt0.o
 spi_calc_baudrate_div                             src/ASF/sam/drivers/spi/spi.o
                                                   src/oled/ssd1306.o
@@ -7354,3 +8384,26 @@ sysfont                                           src/oled/sysfont.o
                                                   src/main.o
 system_init_flash                                 src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
                                                   src/ASF/common/services/clock/same70/sysclk.o
+tc_disable_interrupt                              src/ASF/sam/drivers/tc/tc.o
+tc_disable_qdec_interrupt                         src/ASF/sam/drivers/tc/tc.o
+tc_enable_interrupt                               src/ASF/sam/drivers/tc/tc.o
+tc_enable_qdec_interrupt                          src/ASF/sam/drivers/tc/tc.o
+tc_find_mck_divisor                               src/ASF/sam/drivers/tc/tc.o
+tc_get_interrupt_mask                             src/ASF/sam/drivers/tc/tc.o
+tc_get_qdec_interrupt_mask                        src/ASF/sam/drivers/tc/tc.o
+tc_get_qdec_interrupt_status                      src/ASF/sam/drivers/tc/tc.o
+tc_get_status                                     src/ASF/sam/drivers/tc/tc.o
+tc_init                                           src/ASF/sam/drivers/tc/tc.o
+tc_init_2bit_gray                                 src/ASF/sam/drivers/tc/tc.o
+tc_read_cv                                        src/ASF/sam/drivers/tc/tc.o
+tc_read_ra                                        src/ASF/sam/drivers/tc/tc.o
+tc_read_rb                                        src/ASF/sam/drivers/tc/tc.o
+tc_read_rc                                        src/ASF/sam/drivers/tc/tc.o
+tc_set_block_mode                                 src/ASF/sam/drivers/tc/tc.o
+tc_set_writeprotect                               src/ASF/sam/drivers/tc/tc.o
+tc_start                                          src/ASF/sam/drivers/tc/tc.o
+tc_stop                                           src/ASF/sam/drivers/tc/tc.o
+tc_sync_trigger                                   src/ASF/sam/drivers/tc/tc.o
+tc_write_ra                                       src/ASF/sam/drivers/tc/tc.o
+tc_write_rb                                       src/ASF/sam/drivers/tc/tc.o
+tc_write_rc                                       src/ASF/sam/drivers/tc/tc.o
